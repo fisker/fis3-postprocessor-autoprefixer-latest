@@ -1,0 +1,28 @@
+{
+  "name": "fis3-postprocessor-autoprefixer-latest",
+  "version": "0.0.1",
+  "description": "latest version autoprefixer for fis3.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fisker/fis3-postprocessor-autoprefixer-latest.git"
+  },
+  "keywords": [
+    "postprocessor",
+    "autoprefixer",
+    "css",
+    "fis3-postprocessor-autoprefixer-latest",
+    "fis",
+    "fis3"
+  ],
+  "author": "fisker Cheung <lionkay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5",
+    "autoprefixer": "^6"
+  },
+  "bugs": {
+    "url": "https://github.com/fisker/fis3-postprocessor-autoprefixer-latest/issues"
+  },
+  "readmeFilename": "README.md"
+}
