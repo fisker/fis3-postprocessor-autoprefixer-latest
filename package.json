@@ -1,6 +1,6 @@
 {
   "name": "fis3-postprocessor-autoprefixer-latest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "latest version autoprefixer for fis3.",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,14 @@
     "postcss": "latest",
     "autoprefixer": "latest"
   },
+  "scripts": {
+    "release": "npm --registry=https://registry.npmjs.org/ publish"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
   "bugs": {
     "url": "https://github.com/fisker/fis3-postprocessor-autoprefixer-latest/issues"
   },
